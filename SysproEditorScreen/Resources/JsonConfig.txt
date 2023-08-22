@@ -1,0 +1,5 @@
+{
+"SqlCon":"Server=DESKTOP-V339TRT\\MSSQLSERVER01;Database=SkillcraftDatabase;Trusted_Connection=True;",
+"TableName":"MasterTable",
+"UnEditableColumns":"PODLink,ShippersReference,Account,Boxes,Pallets"
+}
